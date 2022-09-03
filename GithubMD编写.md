@@ -109,3 +109,6 @@ http://www.emoji-cheat-sheet.com
 
 #### [`徽章制作`](shields.io)
 
+<br><br><br>
+***
+md编写规范参考: https://github.com/guodongxiaren/README
